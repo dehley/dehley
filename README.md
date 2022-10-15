@@ -1,7 +1,6 @@
-### Hi there 👋
+# David Ehley
 
-<!--
-**dehley/dehley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Developer/Video Editor/Creator)`**
 
 Here are some ideas to get you started:
 
