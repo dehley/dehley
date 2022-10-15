@@ -42,8 +42,8 @@ I am a Software Engineer who enjoys using code to make other peoples lives easie
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehley&show_icons=true&theme=gruvbox)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehley&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dehley&theme=gruvbox&border_radius=4.5) -->
+
 
 #
